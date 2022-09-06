@@ -19,3 +19,4 @@ a shell script that adds the two numbers stored in the environment variables WAT
  a script that creates a new local variable.
  a script that creates a new global variable.
  a script that prints all possible combinations of two letters, except oo.
+a shell script that adds the two numbers stored in the environment variables
